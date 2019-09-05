@@ -1,4 +1,4 @@
-# nginx1
+# nginx2
 apiVersion: v1
 kind: Pod
 metadata:
